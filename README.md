@@ -88,8 +88,6 @@ To create a centralized, interactive visual analytics tool that:
 
 ## 🖼️ Screenshots / Demos
 
-Add screenshots by placing image files (e.g., `dashboard_main.png`, `category_analysis.png`) in a folder named `/assets` and then embed them like this:
-
 ```markdown
 ### 🧭 Main Dashboard Overview  
 ![Main Dashboard](./Dashboard.png)
