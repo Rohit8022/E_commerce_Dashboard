@@ -86,14 +86,19 @@ To create a centralized, interactive visual analytics tool that:
 
 ---
 
-## 🖼️ Screenshots / Demos
+## 🖼️ Screenshots / Demo
 
-```markdown
-### 🧭 Main Dashboard Overview  
-![E-Commerce Dashboard](./Dashboard.png)
+### 📊 Main Dashboard Overview  
+![Main Dashboard](https://i.ibb.co/cSLqScCh/Dashboard.png)
 
-### 🛍️ Category-Level Sales Breakdown  
-![Category Breakdown](./assets/category_analysis.png)
+### 📈 Report Page 1 – Sales Overview  
+![Report 1](https://i.ibb.co/TM4yyb2C/Report-1.png)
 
-### 🌍 Regional Revenue Map  
-![Regional Map](./assets/revenue_map.png)
+### 📦 Report Page 2 – Product & Category Insights  
+![Report 2](https://i.ibb.co/vxNLnq91/Report-2.png)
+
+### 🌍 Report Page 3 – Regional Sales Breakdown  
+![Report 3](https://i.ibb.co/mrsGxt2F/Report-3.png)
+
+### 👥 Report Page 4 – Customer Segmentation  
+![Report 4](https://i.ibb.co/VY6FTs1G/Report-4.png)
