@@ -90,7 +90,7 @@ To create a centralized, interactive visual analytics tool that:
 
 ```markdown
 ### 🧭 Main Dashboard Overview  
-![Main Dashboard](./Dashboard.png)
+![E-Commerce Dashboard](./Dashboard.png)
 
 ### 🛍️ Category-Level Sales Breakdown  
 ![Category Breakdown](./assets/category_analysis.png)
